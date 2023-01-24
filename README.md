@@ -24,3 +24,7 @@ Based on given inputs (txt files) this code produces a coherent speeches
 * use n-grams model with more depth 
 * Create an app to viz results 
 * Scrape more speeched 
+
+# To run the code: 
+* have python >= 3.9 installed
+* pip install -r requirements.txt
