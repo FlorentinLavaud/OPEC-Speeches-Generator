@@ -1,5 +1,5 @@
 # NLP project
-This project aims at implementing n-grams NLP model to generate an OPEC speeches of a certain lenght.  
+This project aims at implementing n-grams NLP model to generate an OPEC speeches of a given lenght.  
 <br />
 An interesting theoretical explanation of such a model can be find here: https://web.stanford.edu/~jurafsky/slp3/3.pdf
 
