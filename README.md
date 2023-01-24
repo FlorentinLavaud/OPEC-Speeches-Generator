@@ -17,7 +17,10 @@ Notebook that contains
 * (1) an exploratinon and first cleaning part
 * (2) a modelization part
 
+# Main interest:
+Based on given inputs (txt files) this code produces a coherent speeches
+
 # Potential improvements: 
-    * using more depth n-grams model and
-    * creating an app to viz results
-    * scraping more speeches
+* use n-grams model with more depth 
+* Create an app to viz results 
+* Scrape more speeched 
