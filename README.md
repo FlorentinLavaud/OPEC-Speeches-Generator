@@ -8,7 +8,7 @@ An interesting theoretical explanation of such a model can be find here: https:/
 * NGrams: contains all functions to implement from scratch an n-grams
 
 # Data:
-OPEC speeches of 2021 and 2022 from https://www.opec.org/opec_web/en/press_room/307.htm
+OPEC speeches of 2021 and 2022 from https://www.opec.org/opec_web/en/publications/338.htm
 <br /> 
 Downloaded at .txt format
 
