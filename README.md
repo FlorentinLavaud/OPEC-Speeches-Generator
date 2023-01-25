@@ -15,7 +15,7 @@ Downloaded at .txt format
 # Main code:
 Notebook that contains 
 * (1) an exploratinon and first cleaning part
-* (2) a modelization part
+* (2) a modelization part (ongoin)
 
 # Main interest:
 Based on given inputs (txt files) this code produces a coherent speeches
