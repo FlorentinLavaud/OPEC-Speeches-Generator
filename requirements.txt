@@ -1,0 +1,10 @@
+matplotlib
+nltk
+numpy
+pandas
+pympler
+scipy
+session_info
+sklearn
+wordcloud
+IPython
