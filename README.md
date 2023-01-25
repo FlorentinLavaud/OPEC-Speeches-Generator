@@ -22,7 +22,7 @@ Downloaded at .txt format
 # Main code:
 Notebook that contains 
 * (1) an exploratinon and first cleaning part
-* (2) a modelization part (ongoin)
+* (2) a modelization part (ongoing)
 
 # Classes: 
 * TxtAnalysis: gathered all functions necessary to pre-process text data 
