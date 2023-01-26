@@ -17,7 +17,8 @@ An interesting theoretical explanation of such a model can be find here: https:/
 # Data:
 OPEC speeches of 2021 and 2022 from https://www.opec.org/opec_web/en/publications/338.htm
 <br /> 
-Downloaded at .txt format
+Downloaded at .pdf format and treated with R_pdf2txt2df.R
+
 
 # Main code:
 Notebook that contains 
